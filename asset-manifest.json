@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/spaceStation/static/css/main.18589773.chunk.css",
+    "main.js": "/spaceStation/static/js/main.954b2244.chunk.js",
+    "main.js.map": "/spaceStation/static/js/main.954b2244.chunk.js.map",
+    "runtime-main.js": "/spaceStation/static/js/runtime-main.f15910cd.js",
+    "runtime-main.js.map": "/spaceStation/static/js/runtime-main.f15910cd.js.map",
+    "static/js/2.18e2d7ec.chunk.js": "/spaceStation/static/js/2.18e2d7ec.chunk.js",
+    "static/js/2.18e2d7ec.chunk.js.map": "/spaceStation/static/js/2.18e2d7ec.chunk.js.map",
+    "index.html": "/spaceStation/index.html",
+    "precache-manifest.faa6b04e0a16074e79c5ff3d7010c80f.js": "/spaceStation/precache-manifest.faa6b04e0a16074e79c5ff3d7010c80f.js",
+    "service-worker.js": "/spaceStation/service-worker.js",
+    "static/css/main.18589773.chunk.css.map": "/spaceStation/static/css/main.18589773.chunk.css.map",
+    "static/js/2.18e2d7ec.chunk.js.LICENSE.txt": "/spaceStation/static/js/2.18e2d7ec.chunk.js.LICENSE.txt",
+    "static/media/isslogo.jpg": "/spaceStation/static/media/isslogo.d80fc62c.jpg",
+    "static/media/index.css": "/spaceStation/static/media/spacestation.a92e1fc1.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f15910cd.js",
+    "static/js/2.18e2d7ec.chunk.js",
+    "static/css/main.18589773.chunk.css",
+    "static/js/main.954b2244.chunk.js"
+  ]
+}
